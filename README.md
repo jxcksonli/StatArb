@@ -1,0 +1,1 @@
+A simple statstical arbitrage bot that analyses pairs and buckets using historical data sourced from Yahoo Finance
